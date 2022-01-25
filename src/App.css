@@ -1,0 +1,18 @@
+main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main > div {
+  height: 200px;
+  width: 200px;
+  background-color: #bb0044;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+}
